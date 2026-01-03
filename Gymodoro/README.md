@@ -1,30 +1,30 @@
 # Gymodoro
 
-Gymodoro es una aplicación móvil para Android que adapta la técnica de estudio Pomodoro al gimnasio. Permite configurar descansos entre series de ejercicios para optimizar el rendimiento durante los entrenamientos.
+Gymodoro is a mobile app for Android that adapts the Pomodoro study technique to the gym. It allows you to set breaks between exercise sets to optimize performance during workouts.
 
-## Descripción
+## Description
 
-- **Función principal**: Temporizador para descansos entre series en el gimnasio.  
-- **Notificaciones automáticas**: Al finalizar el tiempo de descanso, la app envía automáticamente una notificación para avisarte.  
-- **Personalización**: Ajusta los tiempos de descanso según tus necesidades.  
-- **Simplicidad**: Interfaz intuitiva y fácil de usar.
+- **Main feature**: Timer for breaks between sets at the gym.  
+- **Automatic notifications**: When the break time is over, the app automatically sends a notification to let you know.  
+- **Customization**: Adjust break times according to your needs.  
+- **Simplicity**: Intuitive and easy-to-use interface.
 
-## Requisitos
+## Requirements
 
-Este proyecto está desarrollado en **Android Studio**. Para usarlo, necesitarás:
+This project is developed in **Android Studio**. To use it, you will need:
 
-- Android Studio instalado en tu equipo.
-- Un dispositivo Android o un emulador para probar la app.
+- Android Studio installed on your computer.
+- An Android device or emulator to test the app.
 
-## Instalación
+## Installation
 
-Actualmente, la app no está disponible como APK precompilado. Para instalarla:
+Currently, the app is not available as a pre-compiled APK. To install it:
 
-1. Clona este repositorio en tu equipo:
-   ```bash
+1. Clone this repository on your computer:
+```bash
    git clone https://github.com/pablo-972/Gymodoro
-   ```
-2. Abre el proyecto en Android Studio.
-3. Conecta un dispositivo Android o configura un emulador.
-4. Compila y ejecuta el proyecto desde Android Studio.
+```
+2. Open the project in Android Studio.
+3. Connect an Android device or set up an emulator.
+4. Compile and run the project from Android Studio.
 
