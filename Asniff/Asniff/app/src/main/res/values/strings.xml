@@ -1,0 +1,50 @@
+<resources>
+
+    <string name="app_name">Asniff</string>
+    <string name="inicio">Android app to scan and analyze Bluetooth devices and nearby WiFi networks</string>
+    <string name="ver_registros_wifi">View Wifi Logs</string>
+    <string name="ver_registros_bluetooth">View Bluetooth Logs</string>
+    <string name="buscando_bluetooth">Searching for nearby Bluetooth devices...</string>
+    <string name="dispositivos_disponibles">Available devices will appear in the list. Select one to save it to the database.</string>
+    <string name="dispositivo_actual">Name of the current device: </string>
+    <string name="registros_titulo">Logs</string>
+    <string name="redes_wifi_guardadas">Saved WiFi networks:</string>
+    <string name="dispositivos_bluetooth_guardados">Saved Bluetooth devices:</string>
+    <string name="si_desea_analizar_dispositivo">If you want to analise a log, tap the desired network/device.</string>
+    <string name="eliminar_guardados">Remove log</string>
+    <string name="cargando_redes_cercanas">Loading nearby WiFi networks...</string>
+    <string name="las_redes_disponibles_desapareceran">The networks available in your area will appear in the list. Select one to save it to the database.</string>
+    <string name="conectado_a">Connected to: </string>
+    <string name="direccion_ip">\nIP address: </string>
+    <string name="error_adaptador_bluetooth">ERROR WHEN DETECTING THE BLUETOOTH ADAPTER</string>
+    <string name="active_servicio_bluetooth">ACTIVATE THE BLUETOOTH SERVICE</string>
+    <string name="dispositivo_enviado_firebase">Device Sent to Firebase</string>
+    <string name="error_envio_firebase">Couldnt send to Firebase</string>
+    <string name="activa_servicio_wifi">ACTIVATE WIFI</string>
+    <string name="activa_localizacion">ACTIVATE LOCATION</string>
+    <string name="nombre">Name: </string>
+    <string name="lista_bluetooth_direcion_mac">MAC Address: </string>
+    <string name="titulo_analisis">Analysis </string>
+    <string name="estandar_wifi">WiFi Standard: </string>
+    <string name="capacidades_wifi">Capabilities: </string>
+    <string name="tipo_bluetooth">Bluetooth Type: </string>
+    <string name="b_clasico">Classic Bluetooth</string>
+    <string name="b_dual">Bluetooth Dual Mode (Classic + BLE)</string>
+    <string name="desconocido">Unknown</string>
+    <string name="fabricante">Manufacturer: </string>
+    <string name="vulnerabilidades">Vulnerabilities: </string>
+    <string name="severidad">Base Severity: </string>
+    <string name="explotable">Exploitability Score:  </string>
+    <string name="impacto">Impact Score:   </string>
+    <string name="version">Version:  </string>
+    <string name="cadena_vectores">Vector String: </string>
+    <string name="puntuacion_base">Base Score: </string>
+    <string name="vector_acceso">Access Vector: </string>
+    <string name="complejidad_acceso">Access Complexity: </string>
+    <string name="autenticacion">Authentication: </string>
+    <string name="impacto_confidencialidad">Confidentiality Impact: </string>
+    <string name="impacto_integridad">Integrity Impact: </string>
+    <string name="impacto_disponibilidad">Availability Impact: </string>
+    <string name="ultima_modificacion">Last Modified: </string>
+
+</resources>
