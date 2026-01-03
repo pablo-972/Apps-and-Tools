@@ -6,9 +6,9 @@ Each tool or app is created to serve a specific purpose, and the repository is o
 
 ## Projects Included
 
-- **Gymodoro**: A Pomodoro timer specifically designed for gym workouts. It helps users track their workout time while following the Pomodoro technique.
+- **Gymodoro**: a Pomodoro timer specifically designed for gym workouts. It helps users track their workout time while following the Pomodoro technique.
   
-- **Asniff**: A mobile application that detects and lists available Bluetooth and WiFi devices around you.
+- **Asniff**: a mobile application that detects and lists available Bluetooth and WiFi devices around you.
 
 ### Getting Started
 
