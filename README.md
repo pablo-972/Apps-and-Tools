@@ -4,12 +4,7 @@ This repository contains a collection of personal software applications and tool
 Each tool or app is created to serve a specific purpose, and the repository is organized in a way that each project is independent but follows the same development approach. These tools and apps are developed with the aim of enhancing productivity, learning, and improving technical skills.
 
 
-## Projects Included
-- **Gymodoro**: a Pomodoro timer specifically designed for gym workouts. It helps users track their workout time while following the Pomodoro technique.
-- **Asniff**: a mobile application that detects and lists available Bluetooth and WiFi devices around you.
-
-
-### Getting Started
+## Getting Started
 To get started with any of the projects, simply follow the instructions provided in the respective folders or files. The typical setup includes:
 1. Clone the repository to your local machine:
 ```bash
